@@ -1,6 +1,6 @@
 # Module 5 - Cloud & Infrastructure as Service Basics
 
-Demo Project for DevOps Bootcamp by [TechWorld with Nana] (https://www.techworld-with-nana.com/):
+Demo Project for DevOps Bootcamp by [TechWorld with Nana](https://www.techworld-with-nana.com/):
 Create server and deploy application on DigitalOcean
 
 Since there is no code to create to implement this demo project, this repository only contains this README that lines out the steps done for implementation.
