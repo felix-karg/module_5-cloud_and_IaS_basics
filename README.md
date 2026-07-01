@@ -1,9 +1,18 @@
 # Module 5 - Cloud & Infrastructure as Service Basics
 
-Demo Project for DevOps Bootcamp by [TechWorld with Nana](https://www.techworld-with-nana.com/):
+## Demo Project for DevOps Bootcamp by [TechWorld with Nana](https://www.techworld-with-nana.com/):
 Create server and deploy application on DigitalOcean
 
-Since there is no code to create to implement this demo project, this repository only contains this README that lines out the steps done for implementation.
+## Technologies used:
+- DigitalOcean
+- Linux
+- Java
+- Gradle
+
+## Project Description
+- Setup and configure a server on DigitalOcean
+- Create and configure a new Linux user on the Droplet (Security best practice)
+- Deploy and run a Java Gradle application on Droplet
 
 ## Implementation Steps:
 1. Login to DigitalOcean account (the account was already created in a previous module)
